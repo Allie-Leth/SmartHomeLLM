@@ -1,3 +1,14 @@
 # === Python ===
 /venv/*
+/venv
 __pycache__/
+
+# === VsCode ===
+/.vscode/*
+/.vscode-test/*
+
+# === Environment ===
+.env
+
+# === Misc/Debug ===
+recording.wav
